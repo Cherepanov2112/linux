@@ -1,0 +1,17 @@
+## conky-manager ##
+sudo add-apt-repository ppa:teejee2008/ppa
+sudo apt-get update
+sudo apt-get install conky-manager
+apt recommends conky-manager
+
+## Systemback
+sudo add-apt-repository ppa:nemh/systemback
+sudo apt-get update
+sudo apt-get install systemback
+apt recommends systemback
+
+## VirtualBox
+
+TeamViewer
+Cairo-Dock
+Ubuntu Tweak
